@@ -1,0 +1,14 @@
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\bin\Debug\OCH 2022.exe.config
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\bin\Debug\OCH 2022.exe
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\bin\Debug\OCH 2022.pdb
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\bin\Debug\OCH 2022.xml
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH 2022.vbprojAssemblyReference.cache
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH_2022.MainForm.resources
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH_2022.Resources.resources
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH 2022.vbproj.GenerateResource.cache
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH 2022.vbproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH 2022.exe
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH 2022.xml
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH 2022.pdb
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH_2022.ChannelButton.resources
+C:\Users\henri\source\repos\OCH 2022\OCH 2022\obj\Debug\OCH_2022.TitleObject.resources
